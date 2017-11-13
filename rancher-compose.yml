@@ -1,0 +1,4 @@
+web:
+	scale: 2
+db:
+  scale: 2
